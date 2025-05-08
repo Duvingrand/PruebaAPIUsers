@@ -15,8 +15,8 @@ Este proyecto es una API de construida con .NET 8, FluentValidation, FluentMigra
 
   1. **Clona el repositorio**:
      ```bash
-     git clone https://github.com/tu-usuario/prueba-api.git
-     cd prueba-api
+     git clone https://github.com/Duvingrand/PruebaAPIUsers.git
+     cd PruebaAPIUsers
      ```
 
   2. **Restaurar dependencias**:
